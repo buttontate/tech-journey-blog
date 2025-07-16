@@ -11,7 +11,7 @@ type AllPostsData = {
 }[]
 
 // Vikings themed hero image
-const imageUrl = 'https://images.pexels.com/photos/1618200/pexels-photo-1618200.jpeg?auto=compress&cs=tinysrgb&w=800';
+const imageUrl = 'https://images.pexels.com/photos/9101658/pexels-photo-9101658.jpeg?auto=compress&cs=tinysrgb&w=800';
 
 export default function Home() {
   const allPostsData: AllPostsData = getSortedPostsData()
