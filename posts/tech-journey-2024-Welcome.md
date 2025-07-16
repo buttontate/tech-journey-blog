@@ -7,8 +7,8 @@ Welcome to Tech Journey! Let's make some cool sites!
 
 What is your name, your favorite pokemon, and something cool about you?
 
-- Luke, snorlax, and I baked a loaf of bread this morning.
-- M, Noibat, and I know Luke because he likes Little Brother
+- Tate, snorlax, and I baked a loaf of bread this morning.
+- M, Noibat, and I know Tate because he likes Little Brother
 - Andy, magikarp, and I broke my wrist when I was a kid.
 - Austin, farfetch'd, and my favorite color is green.
 - Sebastian, bulbasaur, and I am a pilot in training.
