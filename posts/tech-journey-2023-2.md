@@ -1,15 +1,19 @@
 ---
-title: 'Tech Journey 2023 - Log 2'
+title: 'Vikings Season 2023 - Tailgate Chronicles'
 date: '2023-07-20'
 ---
 
-Captain's Log.
+Vikings Fan Log - Tailgate Edition
 
-It's sort of hot in here.
-I thought it was going to be ok this morning, but over time it keeps getting hotter and hotter. You might think its because of the weather. No. 
+The parking lot was absolutely buzzing with energy this morning! 
+Purple and gold everywhere you looked. The smell of bratwurst and burgers filled the air, 
+and you could hear the SKOL chant echoing from every corner of the lot.
 
-It's due to these ungrateful kids.
+Met some amazing fans from all over Minnesota - some drove 4 hours just to be here! 
+That's the kind of dedication that makes Vikings Nation special.
 
-![bronco](/images/bronco.jpeg)
+The energy is building as we head into the stadium. This crowd is going to be LOUD!
 
-PS: I know there are grammer issues. Don't look at them. Just ignore. Go back to your pineapple.
+![Vikings Tailgate](https://images.pexels.com/photos/1618200/pexels-photo-1618200.jpeg?auto=compress&cs=tinysrgb&w=400)
+
+PS: SKOL VIKINGS! Purple and gold forever! 🏈⚡

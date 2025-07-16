@@ -9,18 +9,18 @@ TODO:  Change these things along with:
   - avatar.jpeg in /public/images
   - favicon.ico in /public
  */
-const font = Poppins({ weight: '700', subsets: ['latin']})
-const title = 'Tate\'s Site';
-const description = 'This my personal site';
+const font = Poppins({ weight: ['400', '600', '700'], subsets: ['latin']})
+const title = 'SKOL Vikings Nation';
+const description = 'Your ultimate Minnesota Vikings fan hub - SKOL!';
 const links = [
-  {title: 'Pokemon', href: '/pokemon'},
-  {title: 'Rick and Morty', href: '/rick-and-morty'}
+  {title: 'Roster', href: '/pokemon'},
+  {title: 'Fan Zone', href: '/rick-and-morty'}
 ];
 const SocialLinks = {
-  twitter: 'https://x.com/dunscombe_tate',
-  github: '#github',
+  twitter: 'https://x.com/Vikings',
+  github: 'https://github.com/minnesotavikings',
   instagram: '#insta',
-  email: 'mailto:tdunscombe@leantechniques.com'
+  email: 'mailto:skol@vikings.com'
 }
 
 export const metadata: Metadata = {
@@ -37,7 +37,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-      <html lang="en" className={'h-full'} data-theme="dark">
+      <html lang="en" className={'h-full'} data-theme="vikings">
       <body className={`${font.className} flex flex-col min-h-screen`}>
       <NavBarContainer title={title} links={links}>
         <main className={'flex-1 max-w-6xl py-8 md:py-16 px-4 md:px-0'}>{children}</main>

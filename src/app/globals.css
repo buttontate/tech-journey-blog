@@ -7,6 +7,33 @@
     animation: hop 300ms infinite;
 }
 
+/* Vikings themed custom styles */
+.vikings-gradient {
+    background: linear-gradient(135deg, #4F2683 0%, #FFC62F 100%);
+}
+
+.vikings-text-shadow {
+    text-shadow: 2px 2px 4px rgba(79, 38, 131, 0.5);
+}
+
+/* Custom scrollbar for Vikings theme */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #1a1625;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #4F2683;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #FFC62F;
+}
+
 /*:root {*/
 /*  --foreground-rgb: 0, 0, 0;*/
 /*  --background-start-rgb: 214, 219, 220;*/

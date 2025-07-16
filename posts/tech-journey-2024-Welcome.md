@@ -1,25 +1,27 @@
 ---
-title: 'Tech Journey 2024 - Welcome'
+title: 'Vikings Nation - Welcome to the Purple Army!'
 date: '2024-07-17'
 ---
 
-Welcome to Tech Journey! Let's make some cool sites!
+Welcome to Vikings Nation! Let's celebrate the purple and gold together!
 
-What is your name, your favorite pokemon, and something cool about you?
+What is your name, your favorite Vikings player (past or present), and something cool about you?
 
-- Tate, snorlax, and I baked a loaf of bread this morning.
-- M, Noibat, and I know Tate because he likes Little Brother
-- Andy, magikarp, and I broke my wrist when I was a kid.
-- Austin, farfetch'd, and my favorite color is green.
-- Sebastian, bulbasaur, and I am a pilot in training.
-- Cruz, Blastoise, my favorite ice cream.
-- Regina, pikachu, going to a car show this sunday.
-- Iliana, squirtle, only know pokemon from older brother.
-- Alexis, pikachu, favorite color is blue.
-- Gabriel, warturtle, favorite color is green.
-- Jake, squirtle, I have a mini aussie
-- Aden, Gyarados, been going to this really cool tech camp this week.
-- Suvan, Slowbro, I am cold right now.
-- Jessa, squirtle, 3 day running trail fest.
-- Joey, pikachu, run cross country.
-- Apollo, squirtle, I play sports idk
+- Tate, Randy Moss, and I can throw a perfect spiral 40 yards.
+- M, Adrian Peterson, and I've been to every home game this season.
+- Andy, Fran Tarkenton, and I collect vintage Vikings memorabilia.
+- Austin, Justin Jefferson, and my favorite color is purple (obviously).
+- Sebastian, Alan Page, and I'm training to be a pilot like a true Viking warrior.
+- Cruz, Dalvin Cook, and my favorite tailgate food is bratwurst.
+- Regina, Stefon Diggs, going to the Vikings game this Sunday.
+- Iliana, Kirk Cousins, only started following football because of my older brother.
+- Alexis, Harrison Smith, favorite colors are purple and gold.
+- Gabriel, Danielle Hunter, favorite color is Vikings purple.
+- Jake, Adam Thielen, I have a mini aussie named Skol
+- Aden, Za'Darius Smith, been going to Vikings training camp this week.
+- Suvan, Kyle Rudolph, I am cold right now but SKOL keeps me warm.
+- Jessa, Everson Griffen, 3 day Vikings fan fest weekend.
+- Joey, Cordarrelle Patterson, run cross country in purple and gold.
+- Apollo, Eric Kendricks, I play football and dream of being a Viking someday.
+
+**SKOL VIKINGS!** 🏈⚡
